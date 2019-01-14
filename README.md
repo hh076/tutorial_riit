@@ -1,4 +1,4 @@
-- 作成中です。tutorial_riit.pdf をご覧ください-
+- 作成中です。（tutorial_riit.pdf をご覧ください。中身は同じです）
 
 # 講習会の目的
 1. Fortran や C の知識をベースにして，Python の基本的な文法を知る．
